@@ -1,0 +1,3 @@
+/home/zhu/camera_work/build/CMakeFiles/camera_work_test.dir
+/home/zhu/camera_work/build/CMakeFiles/edit_cache.dir
+/home/zhu/camera_work/build/CMakeFiles/rebuild_cache.dir
